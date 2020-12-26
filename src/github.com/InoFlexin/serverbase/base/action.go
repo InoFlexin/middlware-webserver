@@ -1,0 +1,6 @@
+package base
+
+const ON_CLOSE = 0x000000001
+const ON_ERROR = 0x000000002
+const ON_MSG_RECEIVE = 0x00000003
+const ON_CONNECT = 0x00000004
